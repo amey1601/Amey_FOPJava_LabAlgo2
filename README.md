@@ -13,7 +13,7 @@ LAB SESSION 2 ASSIGNMENT:
 
         
         
-          -DENOMINATION - Currency.java with the main method
+          -DENOMINATION - Currency.java with the main method for Question 2.
           
           -MERGESORT - Merge sort algo 
           
