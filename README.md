@@ -8,12 +8,12 @@ LAB SESSION 2 ASSIGNMENT:
 
     srs/gl/com-
   
-          -Transaction- TRANSACTION.JAVA 
-              This file contains the answer to the first question of the assignment.
+          -TRANSACTION- Transaction.java  
+              This file contains the answer to QUESTION 1  of the assignment.
 
         
         
-          -DENOMINATION - Currency.java with the main method for Question 2.
+          -DENOMINATION - Currency.java with the main method for QUESTION 2.
           
           -MERGESORT - Merge sort algo 
           
